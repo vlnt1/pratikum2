@@ -11,5 +11,31 @@ Buat variabel phi, radius, luas, keliling. Masukan nilai phi 3.14, phi adalah se
 Output yang dihasilkan jika memasukan jari jari 8 cm <p>
 ![gambar 2](image/2.png) <p>
 FLOWCHART nya sebagai berikut : ![gambar flowchart](image/flowchart.png)
+<p>
+
+<H1>LAB1<p>
+Script<p>
+![gambar 3](image/3.png)<p>
+Output<p>
+![gambar 3o](image/3o.png)<p>
+<p>
+Script<p>
+![gambar 4](image/4.png)<p>
+Output<p>
+![gambar 4o](image/4o.png)<p>
+<p>
+Script<p>
+![gambar 5](image/5.png)<p>
+Output<p>
+![gambar 5o](image/5o.png)<p>
+<p>
+Script<p>
+![gambar 6](image/6.png)<p>
+Output<p>
+![gambar 6o](image/6o.png)<p>
+
+
+
+
 
 
